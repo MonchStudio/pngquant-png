@@ -4,11 +4,11 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>net.ifok.image</groupId>
+    <groupId>com.monchstudio.image</groupId>
     <artifactId>pngquant-png</artifactId>
     <version>1.0.0</version>
     <name>png-compress</name>
-    <url>https://github.com/leftso/png-compress</url>
+    <url>https://github.com/monchstudio/pngquant-png</url>
     <description>From https://github.com/qwertme/OpenViewerFX ,implement pngquant,png compress.</description>
     <developers>
         <developer>
@@ -23,9 +23,9 @@
         </license>
     </licenses>
     <scm>
-        <connection>https://github.com/leftso/png-compress</connection>
-        <developerConnection>https://github.com/leftso/png-compress</developerConnection>
-        <url>https://github.com/leftso/png-compress</url>
+        <connection>https://github.com/MonchStudio/pngquant-png</connection>
+        <developerConnection>https://github.com/MonchStudio/pngquant-png</developerConnection>
+        <url>https://github.com/MonchStudio/pngquant-png</url>
     </scm>
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
@@ -37,18 +37,6 @@
         <maven-compiler-plugin.version>3.6.2</maven-compiler-plugin.version>
     </properties>
 
-
-    <distributionManagement>
-        <!--nexus private-->
-        <snapshotRepository>
-            <id>ifok-snapshots</id>
-            <url>https://nexus.ifok.net:10202/repository/maven-snapshots/</url>
-        </snapshotRepository>
-        <repository>
-            <id>ifok-releases</id>
-            <url>https://nexus.ifok.net:10202/repository/maven-releases/</url>
-        </repository>
-    </distributionManagement>
 
     <build>
         <plugins>

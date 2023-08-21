@@ -30,7 +30,7 @@
  * D4.java
  * ---------------
  */
-package net.ifok.png.compress;
+package com.monchstudio.image.png;
 
 /**
  * Class performs dithering in 32 bit images

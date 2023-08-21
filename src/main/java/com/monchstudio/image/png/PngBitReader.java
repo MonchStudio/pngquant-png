@@ -30,7 +30,7 @@
  * PngBitReader.java
  * ---------------
  */
-package net.ifok.png.compress;
+package com.monchstudio.image.png;
 
 import java.util.BitSet;
 

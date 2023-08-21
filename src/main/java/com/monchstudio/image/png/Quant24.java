@@ -30,7 +30,7 @@
  * Quant24.java
  * ---------------
  */
-package net.ifok.png.compress;
+package com.monchstudio.image.png;
 
 /**
  * 24 bit to 8 bit Image Quantisation implementation

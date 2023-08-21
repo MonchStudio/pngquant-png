@@ -30,7 +30,7 @@
  * D3.java
  * ---------------
  */
-package net.ifok.png.compress;
+package com.monchstudio.image.png;
 
 /**
  * Class performs dithering in 24 bit images

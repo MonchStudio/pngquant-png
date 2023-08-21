@@ -30,7 +30,7 @@
  * PngChunk.java
  * ---------------
  */
-package net.ifok.png.compress;
+package com.monchstudio.image.png;
 
 import java.nio.ByteBuffer;
 import java.util.zip.CRC32;

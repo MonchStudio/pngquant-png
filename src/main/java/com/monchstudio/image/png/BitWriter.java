@@ -30,7 +30,7 @@
  * BitWriter.java
  * ---------------
  */
-package net.ifok.png.compress;
+package com.monchstudio.image.png;
 
 import java.io.*;
 

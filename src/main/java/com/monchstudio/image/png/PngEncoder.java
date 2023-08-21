@@ -30,7 +30,7 @@
  * PngEncoder.java
  * ---------------
  */
-package net.ifok.png.compress;
+package com.monchstudio.image.png;
 
 import java.awt.image.BufferedImage;
 import java.awt.image.ColorModel;

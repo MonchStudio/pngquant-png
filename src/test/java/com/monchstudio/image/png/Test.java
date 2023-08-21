@@ -1,4 +1,4 @@
-package net.ifok.png.compress;
+package com.monchstudio.image.png;
 
 import java.io.FileInputStream;
 import java.io.FileOutputStream;
